@@ -1,2 +1,2 @@
 # Algorithms4DNASeq
-iPython Notebooks for Algorithms for DNA Sequencing course on Coursera 
+iPython Notebooks for Coursera course "Algorithms for DNA Sequencing"
